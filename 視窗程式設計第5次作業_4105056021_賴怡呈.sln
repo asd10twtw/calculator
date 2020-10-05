@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "視窗程式設計第5次作業_4105056021_賴怡呈", "視窗程式設計第5次作業_4105056021_賴怡呈\視窗程式設計第5次作業_4105056021_賴怡呈.vcxproj", "{EE622C09-602C-4A5A-9416-48916E859C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE622C09-602C-4A5A-9416-48916E859C00}.Debug|x64.ActiveCfg = Debug|Win32
+		{EE622C09-602C-4A5A-9416-48916E859C00}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE622C09-602C-4A5A-9416-48916E859C00}.Debug|x86.Build.0 = Debug|Win32
+		{EE622C09-602C-4A5A-9416-48916E859C00}.Release|x64.ActiveCfg = Release|Win32
+		{EE622C09-602C-4A5A-9416-48916E859C00}.Release|x86.ActiveCfg = Release|Win32
+		{EE622C09-602C-4A5A-9416-48916E859C00}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
